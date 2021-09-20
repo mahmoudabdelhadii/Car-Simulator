@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\CPEN333\\lab1\\CarSimulator\\CarSimulator.csproj",
+      "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\CPEN333\\CPEN333-Lab1\\CarSimulator\\CarSimulator.csproj",
       "projectName": "CarSimulator",
-      "projectPath": "C:\\Users\\Mahmoud\\Desktop\\CPEN333\\lab1\\CarSimulator\\CarSimulator.csproj",
+      "projectPath": "C:\\Users\\Mahmoud\\Desktop\\CPEN333\\CPEN333-Lab1\\CarSimulator\\CarSimulator.csproj",
       "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahmoud\\Desktop\\CPEN333\\lab1\\CarSimulator\\obj\\",
+      "outputPath": "C:\\Users\\Mahmoud\\Desktop\\CPEN333\\CPEN333-Lab1\\CarSimulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",

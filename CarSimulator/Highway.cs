@@ -44,7 +44,7 @@ namespace CarSimulator
                    
                     myCars[i].Drive(dt);
                     
-                    Console.WriteLine("{0}    Position:{1} , acceleration:{2}, velocity: {3} ", myCars[i].GetModel(), myCars[i].myCarState.position, myCars[i].myCarState.acceleration, myCars[i].myCarState.velocity);
+                    Console.WriteLine("{0} - {1}   Position:{2} , acceleration:{3}, velocity: {4} ", (i+1),myCars[i].GetModel(), myCars[i].myCarState.position, myCars[i].myCarState.acceleration, myCars[i].myCarState.velocity);
           
                 }
             }
